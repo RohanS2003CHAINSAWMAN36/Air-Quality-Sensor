@@ -19,9 +19,11 @@ The air quality is categorized as "Good", "Poor", "Very Bad", "You're Dead", or 
 Temperature is displayed in Celsius (°C) and humidity in percentage (%).
 The presence of light is indicated by an icon on the OLED display.
 Authors
+
 Rhushya K C
 Rithvik M
 Rohan S
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
